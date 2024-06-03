@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @OttoHy
-- 👀 I’m interested in data analysis / data science
-- 🌱 I’m currently learning python (pandas, matplotlib, seaborn) DAX, Power Bi, SQL
+- 👀 data analysis / data science
 - 📫 How to reach me: ottohy84@gmail.com
 
 <!---
